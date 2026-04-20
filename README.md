@@ -1,4 +1,4 @@
-# DQN LunarLander-v3
+# Dual DQN LunarLander-v3
 
 A Deep Q-Network (DQN) agent trained to solve the `LunarLander-v3` environment from OpenAI Gymnasium, using a **Dueling DQN + Double DQN** architecture with experience replay and soft target-network updates.
 
